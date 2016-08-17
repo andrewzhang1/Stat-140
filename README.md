@@ -7,4 +7,4 @@ Overrides default Jupyter error handling, allowing injection of custom error mes
 
 ![Simple Error Handler](/screenshots/error_handling.PNG "Description")
 
-![Verbose Error Handler](/screenshots/error_handler_verbose.PNG?raw=true)
+![Verbose Error Handler](/screenshots/error_handling_verbose.PNG?raw=true)
